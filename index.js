@@ -1,6 +1,6 @@
 const prompt = require("prompt-sync")(); //imported this to be able to use prompt
 
-let score = prompt("Enter Marks "); //prompts the user to input student marks
+let score = prompt("Enter Marks: "); //prompts the user to input student marks
 let grade;
 
 if (score<=100 && score>=79) 
