@@ -1,0 +1,29 @@
+{
+  "name": "student-grade-generator",
+  "version": "1.0.0",
+  "description": "Student Grade Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-datageek/student-grade-generator.git"
+  },
+  "keywords": [
+    "switch",
+    "if",
+    "else",
+    "while",
+    "do"
+  ],
+  "author": "Faith Moraa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-datageek/student-grade-generator/issues"
+  },
+  "homepage": "https://github.com/the-datageek/student-grade-generator#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
